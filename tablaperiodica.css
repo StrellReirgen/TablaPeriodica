@@ -1,0 +1,156 @@
+
+*{
+ margin: 0px;
+ padding: 0px;
+ border: 0px;
+}
+#fondo{
+ width: 1024px;
+ margin: 0px auto;
+ background-color: #eeeeee;
+ padding: 10px;
+}
+
+#header{
+ display: block;
+}
+
+.header {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin-left: 3px;
+	width: 46px;
+	height: 46px;
+	color: red;
+	list-style: none;
+}
+
+.jump{
+	margin-left: 20px;
+}
+
+#corner{
+ width: 50px;
+ height: 340px;
+ display: inline-block;
+ vertical-align: top;
+}
+
+.corner {
+	list-style: none;
+	text-align: center;
+	padding-top: 13px;
+	height: 40px;
+	color: red;
+}
+
+#alcalinos {
+ width: 100px;
+ height: 340px;
+ display: inline-block;
+}
+
+.primero {
+	display: block;
+}
+
+.alcalinos {
+ margin-top: 3px;
+ display: inline-block;
+ list-style: none;
+ width: 46px;
+ height: 46px;
+ background-color: #689bff;
+ text-align: center;
+ border: 1px solid black;
+}
+
+#metales {
+ margin-left: 30px;
+ width: 516px;
+ display: inline-block;
+}
+
+.metales {
+ margin-top: 3px;
+ display: inline-block;
+ list-style: none;
+ width: 46px;
+ height: 46px;
+ background-color: #fd9a98;
+ text-align: center;
+ border: 1px solid black;
+}
+
+#nometales {
+ width: 310px;
+ height: 340px;
+ display: inline-block;
+}
+
+.nometales {
+ margin-top: 3px;
+ display: inline-block;
+ list-style: none;
+ width: 46px;
+ height: 46px;
+ background-color: #fecb00;
+ text-align: center;
+ border: 1px solid black;
+}
+
+#footer{
+ margin-top: 40px;
+ margin-left: 60px;
+ display: inline-block;
+}
+
+.info {
+	list-style: none;
+	height: 50px;
+	color: red;
+	font-size: 12px;
+}
+
+#raros {
+	margin-top: 20px;
+	width: 725px;
+	height: 50px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.raros {
+	margin-top: 3px;
+ 	display: inline-block;
+ 	list-style: none;
+ 	width: 46px;
+ 	height: 46px;
+ 	background-color: #1fca21;
+ 	text-align: center;
+ 	border: 1px solid black;
+}
+
+h2 {
+	margin-left: 53px;
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 
+}
+
+h1{
+  font-size: 18px;
+  color: #1913a2;
+}
+
+p{
+ font-size: 11px;
+}
+
+.helio {
+	margin-left: 260px;
+}
+.primero {
+	display: block;
+}
